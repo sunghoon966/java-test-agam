@@ -1,0 +1,5 @@
+cd - change direction
+rm - remove file\direction
+/. - ref file dir in current dir
+/.. - go back in the dir tree
+ls - list sub
