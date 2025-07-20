@@ -5,5 +5,7 @@ public enum Family {
     BROTHER,
     SON,
     DAUGHTER;
+
+    
 }
 
